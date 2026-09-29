@@ -1,0 +1,6 @@
+{
+  "volumeStep": 0.01,
+  "startMutedToggleOnPress": true,
+  "backend": "auto",
+  "logLevel": "Info"
+}

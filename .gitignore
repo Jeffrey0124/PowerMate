@@ -1,0 +1,24 @@
+# Visual Studio / .NET build outputs
+.vs/
+**/bin/
+**/obj/
+**/publish/
+
+# Generated distributable artifacts
+dist/
+
+# User-specific IDE files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Test and coverage outputs
+TestResults/
+coverage/
+*.coverage
+*.coveragexml
+
+# OS metadata
+.DS_Store
+Thumbs.db
